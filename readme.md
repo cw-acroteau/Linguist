@@ -1,3 +1,6 @@
+# **WARNING: NOT MAINTENED, PLEASE SEE UPSTREAM AT https://github.com/Nixinova/Linguist**
+This package was forked as a one-time urgent fix and won't be maintained. Please use the upstream version (linguist-js) instead of this version (linguist-js-cw)
+
 [![Latest version](https://img.shields.io/github/v/release/Nixinova/Linguist?label=latest%20version&style=flat-square)](https://github.com/Nixinova/Linguist/releases)
 [![Last updated](https://img.shields.io/github/release-date/Nixinova/Linguist?label=updated&style=flat-square)](https://github.com/Nixinova/Linguist/releases)
 [![npm downloads](https://img.shields.io/npm/dt/linguist-js?logo=npm)](https://www.npmjs.com/package/linguist-js)
