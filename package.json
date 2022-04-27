@@ -1,5 +1,5 @@
 {
-	"name": "linguist-js",
+	"name": "linguist-js-cw",
 	"version": "2.4.2",
 	"description": "Analyse languages used in a folder. Powered by GitHub Linguist, although it doesn't need to be installed.",
 	"main": "dist/index.js",
